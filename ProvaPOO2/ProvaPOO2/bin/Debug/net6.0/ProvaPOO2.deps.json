@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProvaPOO2/1.0.0": {
+        "runtime": {
+          "ProvaPOO2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvaPOO2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

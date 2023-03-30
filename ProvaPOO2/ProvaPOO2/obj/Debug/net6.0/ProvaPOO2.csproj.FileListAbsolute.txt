@@ -1,0 +1,15 @@
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\bin\Debug\net6.0\ProvaPOO2.exe
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\bin\Debug\net6.0\ProvaPOO2.deps.json
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\bin\Debug\net6.0\ProvaPOO2.runtimeconfig.json
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\bin\Debug\net6.0\ProvaPOO2.dll
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\bin\Debug\net6.0\ProvaPOO2.pdb
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.AssemblyInfoInputs.cache
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.AssemblyInfo.cs
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.dll
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\refint\ProvaPOO2.dll
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.pdb
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ProvaPOO2.genruntimeconfig.cache
+C:\Users\Gusta\source\repos\ProvaPOO2\ProvaPOO2\obj\Debug\net6.0\ref\ProvaPOO2.dll
